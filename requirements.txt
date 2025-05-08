@@ -1,4 +1,4 @@
--e git+https://github.com/SShadowS/aider-restapi.git@980b8d0c750db900dd69ab51a0302b24841a75ef#egg=aider_chat
+# -e git+https://github.com/SShadowS/aider-restapi.git@980b8d0c750db900dd69ab51a0302b24841a75ef#egg=aider_chat
 aiohappyeyeballs==2.4.4
 aiohttp==3.11.11
 aiosignal==1.3.2

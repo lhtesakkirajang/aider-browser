@@ -20,5 +20,8 @@ tmp.benchmarks/
 env/
 response.md
 llm_history.log
-aider=
+aider/*
+/aider
+/__pycache__/
 
+!.aiderignore
