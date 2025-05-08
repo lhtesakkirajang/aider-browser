@@ -2,6 +2,7 @@ __pycache__/
 .aider.tags.cache.v3
 .venv/
 aider/
+api/
 benchmark/
 docker/
 repo-folder/
@@ -11,11 +12,13 @@ src/
 tests/
 .aider.chat.history.md
 .aider.input.history
+.aiderignore
 .dockerignore
 .env
 .flake8
 .gitignore
 .pre-commit-config.yaml
+app.py
 CNAME
 CONTRIBUTING.md
 HISTORY.md
@@ -24,6 +27,7 @@ llm_history.log
 MANIFEST.in
 pyproject.toml
 pytest.ini
+README.md
 requirements.txt
 response.md
 uv.lock
